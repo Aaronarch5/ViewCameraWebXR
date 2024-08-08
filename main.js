@@ -7,7 +7,7 @@ import { ARButton } from 'three/examples/jsm/webxr/ARButton.js';
 const video = document.createElement('video');
 video.autoplay = true;
 
-// Access the user's camera (for non-XR use)
+// Aqui es la camara del dispositivo, en vez de la camara, sería el video obtenido de la videollamada
 navigator.mediaDevices.getUserMedia({ video: true })
     .then(stream => {
         video.srcObject = stream;

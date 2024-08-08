@@ -54,3 +54,9 @@ import { XRControllerModelFactory } from 'three/examples/jsm/webxr/XRControllerM
 import { ARButton } from 'three/examples/jsm/webxr/ARButton.js';
 
 // Código principal aquí...
+
+### Notas:
+- **Imagen de muestra**: La imagen `muestra.png` está vinculada correctamente como `![Imagen de muestra](./muestra.png)`, asumiendo que está en la raíz del proyecto.
+- **Estructura**: La imagen se muestra en la sección "Imagen de muestra" para dar una referencia visual del proyecto.
+
+Con este `README.md`, los usuarios tendrán una visión clara y completa del proyecto, incluyendo cómo instalarlo, usarlo, y una demostración visual tanto en video como en imagen.

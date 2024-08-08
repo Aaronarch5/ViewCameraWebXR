@@ -1,4 +1,4 @@
-# Three.js AR Project with Meta Quest 3
+# Three.js AR  Meta Quest 3 Acceso a Camara Via navegador
 
 Este proyecto utiliza Three.js para crear una experiencia de realidad aumentada (AR) utilizando un visor Meta Quest 3. El proyecto incluye una textura de video y permite la interacción con el entorno AR.
 
